@@ -4,5 +4,3 @@ A resolução destes exercícios tem como objetivo iniciar os estudos na lingagu
 
 Esta lista de exercícios pode ser consultada em:
 https://wiki.python.org.br/EstruturaSequencial
-
-Alterei
